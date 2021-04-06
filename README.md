@@ -5,3 +5,7 @@ The name "Sound And Pitch - 500" is a play on words from the "S&P 500". Instead 
 ## Why 500 genres?
 
 I am using the Apple's iTunes API to search, display and play 30 second clips of songs. As of now, there are roughly 50 million songs on Apple's music catalog so 500 genres splits up all the songs evenly.
+
+### What Technologies Are Being Used?
+
+HTML5, CSS3, JavaScript (ES6), React.js, iTunes API, and TensorFlow AI (JavaScript).
